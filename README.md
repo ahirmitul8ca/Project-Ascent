@@ -1,4 +1,4 @@
-# Buisness-Analyst-Capstone-Project
+# Buisness-Analyst-Capstone-Project : Project Ascent
 My project work form I.T.B.A
 
 This Project aimed at enhancing the BMO InvestorLine trading platform encompasses several critical components. These include competitive analysis, SWOT analysis, business requirements, problem description, potential solutions, technical aspects such as database design, transition requirements, and more. The primary objective of the project is to mitigate the underperformance of the BMO InvestorLine platform by enhancing its features, user interface, and accessibility to attract a larger customer base. The documentation details high-level business requirements, functional specifications such as user registration and trading functionality, security measures, as well as non-functional requirements like performance and security standards.
